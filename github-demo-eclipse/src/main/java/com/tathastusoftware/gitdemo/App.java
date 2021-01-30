@@ -8,7 +8,5 @@ public class App
         System.out.println( "Hello World!" );
     }
     
-    public void display() {
-    	System.out.println("In display");
-    }
+    
 }
